@@ -1,8 +1,8 @@
 import React from "react";
 import { DefinitionProps } from "./type";
-import IgIcon1 from '../../assets/images/logo/icon1.svg';
-import IgIcon2 from '../../assets/images/logo/icon2.svg';
-import IgIcon3 from '../../assets/images/logo/icon3.svg';
+import IgIcon1 from 'assets/images/logo/icon1.svg';
+import IgIcon2 from 'assets/images/logo/icon2.svg';
+import IgIcon3 from 'assets/images/logo/icon3.svg';
 
 const Definition: React.FunctionComponent<DefinitionProps> = (props) => {
   const { img, header, content } = props

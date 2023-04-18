@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
-import IgVietNam from '../../assets/images/vietnam.png';
-import { ReactComponent as IgLogo1 } from '../../assets/images/logo/logo1.svg';
-import { ReactComponent as IgLogo2 } from '../../assets/images/logo/logo2.svg';
+import IgVietNam from 'assets/images/vietnam.png';
+import { ReactComponent as IgLogo1 } from 'assets/images/logo/logo1.svg';
+import { ReactComponent as IgLogo2 } from 'assets/images/logo/logo2.svg';
 
 const DefaultHeader: React.FunctionComponent = () => {
 	const [sticky, setSticky] = useState(false)

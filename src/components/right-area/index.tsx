@@ -1,11 +1,11 @@
 import React from "react";
 import { CatProps } from "./type";
-import IgCat1 from "../../assets/img/blog/cat-widget1.jpg";
-import IgCat2 from "../../assets/img/blog/cat-widget2.jpg";
-import IgCat3 from "../../assets/img/blog/cat-widget3.jpg";
-import IgIcon1 from "../../assets/images/logo/icon4.svg";
-import IgIcon2 from "../../assets/images/logo/icon5.svg";
-import IgIcon3 from "../../assets/images/logo/icon6.svg";
+import IgCat1 from "assets/img/blog/cat-widget1.jpg";
+import IgCat2 from "assets/img/blog/cat-widget2.jpg";
+import IgCat3 from "assets/img/blog/cat-widget3.jpg";
+import IgIcon1 from "assets/images/logo/icon4.svg";
+import IgIcon2 from "assets/images/logo/icon5.svg";
+import IgIcon3 from "assets/images/logo/icon6.svg";
 
 const CatWidget: React.FunctionComponent<CatProps> = (props) => {
   const { img, icon, header, content } = props;

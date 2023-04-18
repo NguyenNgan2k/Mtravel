@@ -1,12 +1,12 @@
 import React from 'react';
-import IgI1 from "../../assets/img/i1.jpg"
-import IgI2 from "../../assets/img/i2.jpg"
-import IgI3 from "../../assets/img/i3.jpg"
-import IgI4 from "../../assets/img/i4.jpg"
-import IgI5 from "../../assets/img/i5.jpg"
-import IgI6 from "../../assets/img/i6.jpg"
-import IgI7 from "../../assets/img/i7.jpg"
-import IgI8 from "../../assets/img/i8.jpg"
+import IgI1 from "assets/img/i1.jpg"
+import IgI2 from "assets/img/i2.jpg"
+import IgI3 from "assets/img/i3.jpg"
+import IgI4 from "assets/img/i4.jpg"
+import IgI5 from "assets/img/i5.jpg"
+import IgI6 from "assets/img/i6.jpg"
+import IgI7 from "assets/img/i7.jpg"
+import IgI8 from "assets/img/i8.jpg"
 
 const DefaultFooter: React.FunctionComponent = () => {
     return (

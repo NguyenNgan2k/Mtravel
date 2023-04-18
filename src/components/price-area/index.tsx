@@ -1,9 +1,9 @@
 import { CardImgProps } from "./type";
-import IgPlane from "../../assets/images/plane.jpg";
-import IgRoom from "../../assets/images/room-2.jpg";
-import IgHotel from "../../assets/images/hotel-3.jpg";
-import IgCar from "../../assets/images/car.jpeg";
-import IgVoucher from "../../assets/images/voucher.jpg"
+import IgPlane from "assets/images/plane.jpg";
+import IgRoom from "assets/images/room-2.jpg";
+import IgHotel from "assets/images/hotel-3.jpg";
+import IgCar from "assets/images/car.jpeg";
+import IgVoucher from "assets/images/voucher.jpg"
 
 const CardImg: React.FunctionComponent<CardImgProps> = (props) => {
     const { img, content, classname } = props;

@@ -1,5 +1,5 @@
 import React from 'react';
-import IgPartner from "../../assets/images/partner.png"
+import IgPartner from "assets/images/partner.png"
 const PartNer: React.FunctionComponent = () => {
   return (
     <section className="top-category-widget-area pt-30 pb-90 ">

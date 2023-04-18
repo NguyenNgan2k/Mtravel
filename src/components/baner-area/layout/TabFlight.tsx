@@ -1,7 +1,7 @@
 import React from 'react';
-import IgJetstar from '../../../assets/images/logo/jetstar.svg';
-import IgVietject from '../../../assets/images/logo/vietjet.svg';
-import IgVnLines from '../../../assets/images/logo/vietnamairlines.svg';
+import IgJetstar from 'assets/images/logo/jetstar.svg';
+import IgVietject from 'assets/images/logo/vietjet.svg';
+import IgVnLines from 'assets/images/logo/vietnamairlines.svg';
 
 const TabFlight: React.FunctionComponent = () => {
     return (
